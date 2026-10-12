@@ -79,3 +79,7 @@ Order-size analysis shows Regular at 31%, Large at 30%, Standard at 30%, and Sma
 ## ✅ Conclusion
 
 This project demonstrates how Excel, Power Pivot, and DAX Measures can transform retail transaction data into an interactive dashboard, helping analyze sales performance, customer purchasing patterns, and store-level trends.
+
+## 📊 Dashboard Preview
+
+![Coffee Shop Sales Analysis Dashboard](Dashboard.png)
